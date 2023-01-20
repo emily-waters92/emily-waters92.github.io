@@ -38,9 +38,10 @@ body {
     background-color: 	#C8DBCD
 }
 
-ul li {
+ul {
 
     text-align: center;
     font-size: 70%;
     font-family: monospace;
-    color: #667b68
+    color: #667b68;
+}
