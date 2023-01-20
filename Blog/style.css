@@ -15,7 +15,7 @@ h2 {
 
 p {
     text-align: center;
-    color: #EFD3CD;
+    color: #667b68;
     font-family: monospace;
     
 }
@@ -38,7 +38,7 @@ body {
     background-color: 	#C8DBCD
 }
 
-button {
-    color: #EFD3CD;
+.button {
+    color: #667b68;
     font-family: monospace;
 }
