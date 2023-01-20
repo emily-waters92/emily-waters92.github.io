@@ -38,13 +38,20 @@ body {
     background-color: 	#C8DBCD
 }
 
-ul li {
+.strenths ul {
 
     text-align: center;
     font-size: 70%;
     font-family: monospace;
     color: #667b68;
+
 }
+.strengths li {
+    text-align: center;
+    font-size: 70%;
+    font-family: monospace;
+    color: #667b68;
+    }
 
 .button {
     text-align: center;
