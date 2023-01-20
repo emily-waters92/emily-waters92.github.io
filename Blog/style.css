@@ -1,6 +1,6 @@
 h1 {
     font-family: "Sofia", sans-serif;
-    color: #AABFB8;
+    color: #7E998D;
     font-size: 200%;
     text-align: center;
   }
@@ -8,14 +8,16 @@ h1 {
 h2 {
     text-align: center;
     font-size: 100%;
-    color: #517470;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+    color: #ACC4C0;
+    font-family:monospace;
 
 }
 
 p {
     text-align: center;
+    color: #EFD3CD;
     font-family: monospace
+    
 }
 
 img {
@@ -33,5 +35,5 @@ img {
 }
 
 body {
-    background-color: 	#ACBAA1
+    background-color: 	#C8DBCD
 }
