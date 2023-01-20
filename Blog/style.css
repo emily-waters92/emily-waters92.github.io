@@ -14,10 +14,10 @@ p {
     font-size: 0.8px;
 }
 
-#mad-hatter {
-    padding-left: 200px;
-    padding-right: 200px;
-    padding-top: 200px;
-    padding-bottom: 200px;
+img {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 </style>
