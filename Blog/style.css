@@ -37,3 +37,10 @@ img {
 body {
     background-color: 	#C8DBCD
 }
+
+ul li {
+
+    text-align: center;
+    font-size: 70%;
+    font-family: monospace;
+    color: #667b68
