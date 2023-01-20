@@ -1,14 +1,14 @@
 h1 {
     font-family: "Sofia", sans-serif;
     color: #7E998D;
-    font-size: 200%;
+    font-size: 300%;
     text-align: center;
   }
   
 h2 {
     text-align: center;
-    font-size: 100%;
-    color: #ACC4C0;
+    font-size: 200%;
+    color: #135046;
     font-family:monospace;
 
 }
@@ -53,3 +53,8 @@ ul li {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.text-properties {
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
