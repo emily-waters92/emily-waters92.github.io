@@ -62,3 +62,16 @@ text-align: center
     text-transform: uppercase;
     text-decoration: underline;
   }
+
+  .button {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+  }
