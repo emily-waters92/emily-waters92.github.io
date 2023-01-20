@@ -38,10 +38,18 @@ body {
     background-color: 	#C8DBCD
 }
 
-ul {
+ul li {
 
     text-align: center;
     font-size: 70%;
     font-family: monospace;
     color: #667b68;
+}
+
+.button {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
