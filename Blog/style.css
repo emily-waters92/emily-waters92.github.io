@@ -16,7 +16,7 @@ h2 {
 p {
     text-align: center;
     color: #EFD3CD;
-    font-family: monospace
+    font-family: monospace;
     
 }
 
@@ -36,4 +36,9 @@ img {
 
 body {
     background-color: 	#C8DBCD
+}
+
+button {
+    color: #EFD3CD;
+    font-family: monospace;
 }
