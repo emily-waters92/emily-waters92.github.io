@@ -54,12 +54,8 @@ body {
     color: #667b68;
     }
 
-.button {
-    text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+div {
+text-align: center
 }
 
 .text-properties {
