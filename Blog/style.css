@@ -38,7 +38,33 @@ body {
     background-color: 	#C8DBCD
 }
 
-.button {
-    color: #667b68;
-    font-family: monospace;
+    .button {
+        border: none;
+        color: #667b68; 
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+
 }
+.button-1 {
+    background-color: white;
+    color:#667b68
+  }
+  
+  .button-2:hover {
+    background-color: #4CAF50;
+    color: white;
+
+    .button-2 {
+        background-color: white;
+        color:#667b68
+      }
+      
+      .button-2:hover {
+        background-color: #4CAF50;
+        color: white;
