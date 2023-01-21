@@ -82,6 +82,9 @@ text-align: center
     padding-bottom: 30px;
     padding-left: 50%;
     padding-right: 50%;
+    border-right: 2cm;
+    border-left: 2cm;
+    border-color: none;
   }
 
   .container {
