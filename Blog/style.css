@@ -96,8 +96,14 @@ text-align: center
     text-align: center;
     font-family: "Sofia";
     text-decoration: none;
-    display: inline-block;
+    display: block;
     margin: 0 auto;
+    
+  }
+
+  .core-link {
+    text-align: center;
     padding-left: 30%;
     padding-right: 30%;
+
   }
