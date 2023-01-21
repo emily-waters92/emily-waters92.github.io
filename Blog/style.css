@@ -34,7 +34,7 @@ img {
     height: auto;
 }
 
-#mad-hatter {
+.mad-hatter {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -64,7 +64,7 @@ div {
 text-align: center
 }
 
-#text-properties {
+.text-properties {
     text-transform: uppercase;
     text-decoration: underline;
   }
