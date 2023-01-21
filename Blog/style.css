@@ -111,6 +111,8 @@ text-align: center
   }
 
   .positioned {
-    position: static;
-    background: #135046;
+    position: relative;
+    right: 50px;
+    border: 1cm;
+
   }
