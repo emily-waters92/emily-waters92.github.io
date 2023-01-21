@@ -112,7 +112,6 @@ text-align: center
 
   .positioned {
     position: relative;
-    right: 50px;
-    border: 1cm;
+    right: 80px;
 
   }
