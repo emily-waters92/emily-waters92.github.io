@@ -74,8 +74,8 @@ text-align: center
     display: block;
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 50%;
+    padding-right: 50%;
   }
 
   .container {
@@ -95,4 +95,6 @@ text-align: center
     text-decoration: none;
     display: inline-block;
     margin: 0 auto;
+    padding-left: 50%;
+    padding-right: 50%;
   }
