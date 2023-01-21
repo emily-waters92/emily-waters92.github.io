@@ -15,12 +15,6 @@ h2 {
     color: #135046;
     font-family:monospace;
 
-    h3 {
-      text-align: center;
-      font-size: 180%;
-      color: #135046;
-      font-family:"Sofia", monospace;
-
 }
 
 p {
@@ -48,7 +42,7 @@ img {
 }
 
 body {
-    background-color: 	#C8DBCD
+    background-color: #8EBBA7;
 }
 
 .strenths ul {
