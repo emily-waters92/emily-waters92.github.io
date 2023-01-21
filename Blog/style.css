@@ -7,6 +7,10 @@ h1 {
     padding-bottom: 30px;
     padding-left: 30px;
     padding-right: 30px;
+    position: fixed;
+    top: 0;
+    width: 500px;
+    margin-top: 0;
    
   }
   
@@ -107,18 +111,5 @@ text-align: center
     text-align: center;
     padding-left: 30%;
     padding-right: 30%;
-
-  }
-
-  .positioned-1 {
-    position: relative;
-    right: 500px;
-
-  }
-
-  
-  .positioned-2 {
-    position: relative;
-    left: 500px;
 
   }
