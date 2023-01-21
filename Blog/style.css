@@ -40,7 +40,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 80%
-    border:fit-content;
 }
 
 body {
@@ -113,6 +112,6 @@ text-align: center
 
   .positioned {
     position: relative;
-    right: 80px;
+    right: 200px;
 
   }
