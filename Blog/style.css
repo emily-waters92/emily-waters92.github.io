@@ -3,6 +3,10 @@ h1 {
     color: #7E998D;
     font-size: 300%;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
   }
   
 h2 {
