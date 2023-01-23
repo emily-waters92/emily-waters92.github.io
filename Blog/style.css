@@ -46,6 +46,13 @@ body {
     background-color: #8EBBA7;
 }
 
+.strengths {
+  text-align: center;
+    font-size:150%;
+    font-family:"Sofia", monospace;
+    color: #667b68;
+}
+
 .strenths ul {
 
     text-align: center;
