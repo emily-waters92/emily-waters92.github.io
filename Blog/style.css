@@ -121,4 +121,6 @@ text-align: center
     width: 60%
   }
 
-{cursor: url(https://cur.cursors-4u.net/nature/nat-5/nat430.ani), url(https://cur.cursors-4u.net/nature/nat-5/nat430.png), auto !important;}
+  html {
+    cursor: url('https://cur.cursors-4u.net/nature/nat-5/nat430.png'), pointer;
+}
