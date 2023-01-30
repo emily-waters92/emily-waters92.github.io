@@ -44,7 +44,7 @@ img {
 }
 
 body {
-    background-color: #8EBBA7;
+    background-color: whitesmoke;
 }
 
 .strengths {
@@ -122,6 +122,15 @@ text-align: center
     margin-right: auto;
     width: 60%
   }
+
+  .background{
+    z-index: -1;
+    width: 33 vw;
+    height: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: #8EBBA7
+}
 
 
 
