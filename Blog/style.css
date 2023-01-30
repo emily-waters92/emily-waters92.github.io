@@ -53,7 +53,7 @@ body {
     color: #667b68;
 }
 
-.strenths ul {
+.strengths ul {
 
     text-align: center;
     font-size:150%;
@@ -108,9 +108,10 @@ text-align: center
   }
 
   .core-link {
+    display: block;
     text-align: center;
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 10%;
+    padding-right: 10%;
 
   }
 
