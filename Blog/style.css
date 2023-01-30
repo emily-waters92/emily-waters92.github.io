@@ -20,7 +20,7 @@ h2 {
 
 p {
     text-align: center;
-    color: #667b68;
+    color: whitesmoke;
     font-family:"Sofia", monospace;
     font-size: 150%
     
@@ -50,7 +50,7 @@ body {
   text-align: center;
     font-size:150%;
     font-family:"Sofia", monospace;
-    color: #667b68;
+    color: whitesmoke;
 }
 
 .strengths ul {
@@ -58,14 +58,14 @@ body {
     text-align: center;
     font-size:150%;
     font-family:"Sofia", monospace;
-    color: #667b68;
+    color:whitesmoke;
 
 }
 .strengths li {
     text-align: center;
     font-size: 150%;
     font-family:"Sofia", monospace;
-    color: #667b68;
+    color: whitesmoke;
     }
 
 div {
@@ -97,7 +97,7 @@ text-align: center
 
   a:link, a:visited {
     background-color: #135046;
-    color: white;
+    color: black;
     padding: 14px 25px;
     text-align: center;
     font-family: "Sofia";
