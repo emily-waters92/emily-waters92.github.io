@@ -1,6 +1,6 @@
 h1 {
     font-family: "Sofia", sans-serif;
-    color: #7E998D;
+    color: white;
     font-size: 300%;
     text-align: center;
     padding-top: 30px;
@@ -97,14 +97,15 @@ text-align: center
   }
 
   a:link, a:visited {
-    background-color: #135046;
-    color: whitesmoke;
-    padding: 14px 25px;
+    background-color: whitesmoke;
+    color: #8ebba7;
+    padding: 14px 14px 14px 14px;
     text-align: center;
     font-family: "Sofia";
     text-decoration: none;
     display: block;
-    margin: 0 auto;
+    margin: 0px 100px;
+    font-size: x-large;
     
   }
 
@@ -128,7 +129,7 @@ text-align: center
   height: 80px; 
   background-color: whitesmoke
 }
-.logo {
+img.logo {
   display: inline-block;
   vertical-align: top;
   align-content: middle;
