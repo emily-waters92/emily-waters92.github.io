@@ -34,7 +34,6 @@ img {
     width: 100%;
     height: auto;
     border-radius: 50px;
-    text-align: center;
 }
 
 .mad-hatter {
@@ -133,7 +132,6 @@ text-align: center
 img.logo {
   display: inline-block;
   vertical-align: top;
-  align-content: middle;
   padding: 14px 14px 14px 14px;
   width: 80px;
   height: 80px;
